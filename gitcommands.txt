@@ -1,0 +1,13 @@
+Task 1
+
+Create a directory RapidApplicationDevelopment
+
+Go to the directory RapidApplicationDevelopment
+
+Create another directory call Module1
+
+Go to the directory Module1
+
+//Create a file index.html
+
+
